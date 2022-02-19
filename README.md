@@ -8,6 +8,6 @@
 - JavaScript
 - API WeatherInfo
 
-### Pré visualização do projeto:
+### Pré-visualização do projeto:
 
 ![preview img](preview-weatherapp.png)

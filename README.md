@@ -10,4 +10,4 @@
 
 ### Pré visualização do projeto:
 
-[!preview](preview-weatherapp.png)
+![preview img](preview-weatherapp.png)
